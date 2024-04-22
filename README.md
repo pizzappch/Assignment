@@ -1,6 +1,8 @@
 # AssignmentTest
+Hello! My name is Phenpitcha Ampichit. I have a passion for becoming a skilled software developer, and I'm ready to gain new experiences.
 
-This template should help get you started developing with Vue 3 in Vite.
+💻 Programming language
+VueJS + Tailwind CSS
 
 ## Recommended IDE Setup
 
