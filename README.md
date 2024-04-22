@@ -1,8 +1,8 @@
 # AssignmentTest
 Hello! My name is Phenpitcha Ampichit. I have a passion for becoming a skilled software developer, and I'm ready to gain new experiences.
 
-💻 Programming language
-VueJS + Tailwind CSS
+# Programming language
+💻 Vue.js + Tailwind CSS
 
 ## Recommended IDE Setup
 
